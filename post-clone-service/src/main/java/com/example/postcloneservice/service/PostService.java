@@ -9,5 +9,4 @@ public interface PostService {
     Post addPost(Post post) throws Exception;
 
     List<Post> getPost();
-
 }
